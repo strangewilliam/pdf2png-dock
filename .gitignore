@@ -1,0 +1,12 @@
+# 构建/系统文件
+.DS_Store
+*.swp
+.build/
+build/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# iconset 中间目录
+*.iconset/
